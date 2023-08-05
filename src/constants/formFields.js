@@ -1,4 +1,4 @@
-const LoginFields = [
+const loginFields = [
     {
         labelText:"Email address",
         labelFor:"email-address",
